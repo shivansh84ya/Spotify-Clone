@@ -19,7 +19,7 @@ To run this project locally:
 1. Clone the repository to your local machine:
 
    ```bash   
-   git clone https://github.com/Shinan007/spotify-clone.git
+   https://github.com/shivansh84ya/Spotify-Clone.git
    ```
 
 2. Navigate to the project folder:
@@ -43,7 +43,7 @@ Contributors are welcome! If you'd like to contribute to this project by adding 
 2. Create a new branch for your contributions:
 
    ```bash
-   git checkout -b feature/Sharad Chauhan
+   git checkout -b feature
    ```
 4. Make your changes and commit them with descriptive messages.
 5. Push your changes to your forked repository.
